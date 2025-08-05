@@ -16,3 +16,8 @@ Another remote commit was made that I want to fetch to my local repository and p
 Saving the file simply writes the new text to your hard disk. We need to tell git that we want to preserve these changes for the project (making a
 "commit"), then send them 
 Back to the repository on GitHub so the rest of our team can see them (this is "pushing to origin").
+
+**Pushing the changes made in the Local**
+Saving the file simply writes the new text to your hard disk. We need to tell git that we want to preserve these changes for the project (making a
+"commit"), then send them 
+Back to the repository on GitHub so the rest of our team can see them (this is "pushing to origin").
